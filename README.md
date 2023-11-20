@@ -1,5 +1,5 @@
 # LLOF-design-floods
-This repository contains the data supporting the findings of this study.
+This repository contains the data supporting the findings of the paper.
 
 ## Repo Contents
 - Data:
@@ -11,7 +11,7 @@ This repository contains the data supporting the findings of this study.
 Manuscript ... under review.
 
 ## Contact
-Shihao XIAO
-PhD student, Dept of Civil & Environmental Engineering
-The Hong Kong University of Science and Technology
-Email: sxiaoai@connect.ust.hk
+Shihao XIAO 
+PhD student, Dept of Civil & Environmental Engineering 
+The Hong Kong University of Science and Technology 
+Email: sxiaoai@connect.ust.hk 
