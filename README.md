@@ -1,4 +1,4 @@
-# LLOF Design Floods Repository
+# LLOF-Design-Floods Repository
 
 This repository houses the data supporting the findings of our paper.
 
